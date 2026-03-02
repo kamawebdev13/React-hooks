@@ -1,4 +1,5 @@
 import Notificacion from './componentes/Notificacion';
+import './componentes/index.css'
 
 function AppDos() {
   return (
