@@ -1,5 +1,5 @@
 import ContadorSkills from './componentes/ContadorSkills';
-import './components/index.css'
+import './componentes/index.css'
 
 function App() {
   
