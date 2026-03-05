@@ -9,10 +9,10 @@ interface Pedido {
 
 // 3. Array de pedidos de prueba
 const pedidos: Pedido[] = [
-  { id: "#ORD-773", cliente: "Jonny Storm", total: 125.50, estado: 'Entregado' },
-  { id: "#ORD-892", cliente: "Sue Storm", total: 45.00, estado: 'Pendiente' },
-  { id: "#ORD-903", cliente: "Ben Grimm", total: 210.99, estado: 'Entregado' },
-  { id: "#ORD-116", cliente: "Reed Richards", total: 89.00, estado: 'Cancelado' },
+  { id: "#ORD-773", cliente: "🔥Jonny Storm🔥", total: 125.50, estado: 'Entregado' },
+  { id: "#ORD-892", cliente: "👱‍♀️Sue Storm👱‍♀️", total: 45.00, estado: 'Pendiente' },
+  { id: "#ORD-903", cliente: "🪨Ben Grimm 🪨", total: 210.99, estado: 'Entregado' },
+  { id: "#ORD-116", cliente: "👨🏼‍🔬Reed Richards👨🏼‍🔬", total: 89.00, estado: 'Cancelado' },
 ];
 
 const TablaPedidos = () => {
