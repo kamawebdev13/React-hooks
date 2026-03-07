@@ -1,4 +1,5 @@
 import  TablaPedidos  from './componentes/TablaPedidos.tsx';
+import ProfileCard from './componentes/ProfileCard.tsx';  
 import './componentes/index.css';
 
 function AppSiete() {
@@ -12,6 +13,8 @@ function AppSiete() {
       {/* Contenedor actualizado */}
       <div className="flex flex-row flex-wrap justify-center items-center gap-10 p-8 border rounded-xl bg-blue-300 shadow-sm mx-auto max-w-4xl">
         <TablaPedidos />
+
+        <ProfileCard/>
         
       </div>
     </div>
