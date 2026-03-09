@@ -1,7 +1,2 @@
 @import "tailwindcss";
 
-@layer base {
-  #root {
-    @apply mx-auto max-w-[1280px] p-8 text-center;
-  }
-}
